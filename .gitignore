@@ -1,0 +1,28 @@
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.codex/
+.agents/
+
+# 本地下载与临时文件
+/Logs/
+/movie/
+.m3u8-*/
+*.log
+*.mp4
+*.mkv
+*.mov
+*.ts
+*.m4s
+*.srt
+*.ass
+*.vtt
+
+# 下载的第三方工具和本地构建产物
+/N_m3u8DL-RE
+/M3U8 下载器.app/
+/release/

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="80 28 722 724" role="img" aria-label="NØME77 favicon">
+  <title>NØME77 B2.5 favicon</title>
+  <rect x="80" y="28" width="722" height="724" rx="115" fill="#090B0D"/>
+  <rect x="112" y="56" width="661" height="668" rx="116" fill="none" stroke="#F0F0EF" stroke-width="37"/>
+  <g fill="#F0F0EF">
+    <path d="M211 605 V188 C211 164 228 146 251 146 C266 146 277 152 288 164 L593 493 V208 L657 130 Q667 132 671 143 C674 151 675 161 675 173 V595 C675 619 658 637 634 637 C619 637 608 631 596 617 L291 288 V570 L227 648 Q219 646 215 635 C212 627 211 617 211 605 Z"/>
+    <path d="M474 130 H647 L583 208 H474 C448 208 430 191 430 169 C430 147 448 130 474 130 Z"/>
+    <path d="M301 570 H412 C438 570 456 587 456 609 C456 631 438 648 412 648 H237 Z"/>
+  </g>
+</svg>
